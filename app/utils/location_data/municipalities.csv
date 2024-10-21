@@ -1,0 +1,754 @@
+municipality_id,district_id,municipality_name,number_of_wards
+1,1,Shadanand,14
+2,1,Bhojpur,12
+3,1,Hatuwagadhi,9
+4,1,Ramprasad Rai,8
+5,1,Aamchok,10
+6,1,Tyamke Maiyum,9
+7,1,Arun,7
+8,1,Pauwadungma,6
+9,1,Salpasilichho,6
+10,2,Dhankuta,10
+11,2,Pakhribas,10
+12,2,Mahalaxmi,9
+13,2,Sangurigadhi,10
+14,2,Chaubise,8
+15,2,Sahidbhumi,7
+16,2,Chhathar Jorpati,6
+17,3,Suryodaya,14
+18,3,Ilam,12
+19,3,Deumai,9
+20,3,Maijogmai,6
+21,3,Phakphokthum,7
+22,3,Mai,10
+23,3,Chulachuli,6
+24,3,Rong,6
+25,3,Mangsebung,6
+26,3,Sandakpur,5
+27,4,Mechinagar,15
+28,4,Birtamod,10
+29,4,Damak,10
+30,4,Bhadrapur,10
+31,4,Shivasatakshi,11
+32,4,Arjundhara,11
+33,4,Gauradaha,9
+34,4,Kankai,9
+35,4,Kamal,7
+36,4,Buddha Shanti,7
+37,4,Kachankawal,7
+38,4,Jhapa,7
+39,4,Barhadashi,7
+40,4,Gaurigunj,6
+41,4,Haldibari,5
+42,5,Diktel Rupakot Majhuwagadhi,15
+43,5,Halesi Tuwachung,11
+44,5,Khotehang,9
+45,5,Diprung Chuichumma,7
+46,5,Aiselukharka,7
+47,5,Jantedhunga,6
+48,5,Kepilasgadhi,7
+49,5,Barahpokhari,6
+50,5,Rawa Besi,6
+51,5,Sakela,5
+52,6,Sundar Haraicha,12
+53,6,Belbari,11
+54,6,Pathari Shanischare,10
+55,6,Ratuwamai,10
+56,6,Urlabari,9
+57,6,Rangeli,9
+58,6,Sunawarshi,9
+59,6,Letang,9
+60,6,Biratnagar,19
+61,6,Jahada,7
+62,6,Budi Ganga,7
+63,6,Katahari,7
+64,6,Dhanpalthan,7
+65,6,Kanepokhari,7
+66,6,Gramthan,7
+67,6,Kerabari,10
+68,6,Miklajung,9
+69,7,Siddhicharan,12
+70,7,Khiji Demba,9
+71,7,Chisankhugadhi,8
+72,7,Molung,8
+73,7,Sunkoshi,10
+74,7,Champadevi,10
+75,7,Manebhanjyang,9
+76,7,Likhu,9
+77,8,Phidim,14
+78,8,Miklajung,8
+79,8,Phalgunanda,7
+80,8,Hilihang,7
+81,8,Phalelung,8
+82,8,Yangwarak,6
+83,8,Kummayak,5
+84,8,Tumbewa,5
+85,9,Khandbari,11
+86,9,Chainpur,11
+87,9,Dharmadevi,9
+88,9,Panchkhapan,9
+89,9,Madi,9
+90,9,Makalu,6
+91,9,Silichong,5
+92,9,Sabhapokhari,6
+93,9,Chichila,5
+94,9,BhotKhola,5
+95,10,Solu Dudhkunda,11
+96,10,Mapya Dudhkoshi,7
+97,10,Necha Salyan,5
+98,10,Thulung Dudhkoshi,9
+99,10,Maha Kulung,5
+100,10,Sotang,5
+101,10,Khumbu PasangLhamu,5
+102,10,Likhu Pike,5
+103,11,BarahaKshetra,11
+104,11,Inaruwa,10
+105,11,Duhabi,12
+106,11,Ramdhuni,9
+107,11,Itahari,20
+108,11,Dharan,20
+109,11,Koshi,8
+110,11,Harinagar,7
+111,11,Bhokraha Narsingh,8
+112,11,Dewangunj,7
+113,11,Gadhi,6
+114,11,Barju,6
+115,12,Phungling,11
+116,12,Sirijangha,8
+117,12,Aathrai Triveni,5
+118,12,Pathibhara Yangwarak,6
+119,12,Meringden,6
+120,12,Sidingwa,7
+121,12,Phaktanglung,7
+122,12,Maiwa Khola,6
+123,12,Mikwa Khola,5
+124,13,Myanglung,10
+125,13,Laligurans,9
+126,13,Aathrai,7
+127,13,Phedap,5
+128,13,Chhathar,6
+129,13,Menchayayem,6
+130,14,Triyuga,16
+131,14,Katari,14
+132,14,Chaudandigadhi,10
+133,14,Belaka,9
+134,14,Udayapurgadhi,8
+135,14,Rautamai,8
+136,14,Tapli,5
+137,14,Limchungbung,5
+138,15,Birgunj,32
+139,15,Bahudarmai,9
+140,15,Parsagadhi,9
+141,15,Pokhariya,10
+142,15,Bindabasini,5
+143,15,Dhobini,5
+144,15,Chhipaharmai,5
+145,15,Jagarnathpur,6
+146,15,Jirabhawani,5
+147,15,Kalikamai,5
+148,15,Pakaha Mainpur,5
+149,15,Paterwa Sugauli,5
+150,15,Sakhuwa Prasauni,6
+151,15,Thori,5
+152,16,Kalaiya,27
+153,16,Jitpur Simara,24
+154,16,Kolhabi,11
+155,16,Nijgadh,13
+156,16,Mahagadhimai,11
+157,16,Simaraungadh,11
+158,16,Pacharauta,9
+159,16,Pheta,7
+160,16,Bishrampur,5
+161,16,Prasauni,7
+162,16,Adarsh Kotwal,8
+163,16,Karaiyamai,8
+164,16,Devtal,7
+165,16,Parwanipur,5
+166,16,Baragadhi,6
+167,16,Suwarna,8
+168,17,Baudhimai,9
+169,17,Brindaban,9
+170,17,Chandrapur,10
+171,17,Dewahi Gonahi,9
+172,17,Gadhimai,9
+173,17,Guruda,9
+174,17,Gaur,9
+175,17,Gujara,9
+176,17,Ishanath,9
+177,17,Katahariya,9
+178,17,Madhav Narayan,9
+179,17,Maulapur,9
+180,17,Paroha,9
+181,17,Phatuwa Bijayapur,11
+182,17,Rajdevi,9
+183,17,Rajpur,9
+184,17,Durga Bhagwati,5
+185,17,Yamunamai,5
+186,18,Bagmati,12
+187,18,Balara,11
+188,18,Barahathwa,18
+189,18,Godaita,12
+190,18,Hariwan,11
+191,18,Haripur,9
+192,18,Haripurwa,9
+193,18,Ishowrpur,15
+194,18,Kabilasi,10
+195,18,Lalbandi,17
+196,18,Malangawa,12
+197,18,Basbariya,6
+198,18,Bisnu,8
+199,18,Brahampuri,7
+200,18,Chakraghatta,9
+201,18,Chandranagar,7
+202,18,Dhankaul,7
+203,18,Kaudena,7
+204,18,Parsa,6
+205,18,Ramnagar,7
+206,19,Lahan,24
+207,19,Dhangadhimai,14
+208,19,Siraha,22
+209,19,Golbazar,13
+210,19,Mirchaiya,12
+211,19,Kalyanpur,12
+212,19,Karjanha,11
+213,19,Sukhipur,10
+214,19,Bhagwanpur,5
+215,19,Aurahi,5
+216,19,Bishnupur,5
+217,19,Bariyarpatti,5
+218,19,Lakshmipur Patari,6
+219,19,Naraha,5
+220,19,SakhuwanankarKatti,5
+221,19,Arnama,5
+222,19,Navarajpur,5
+223,20,Janakpurdham,25
+224,20,Chhireshwarnath,10
+225,20,Ganeshman Charnath,11
+226,20,Dhanushadham,9
+227,20,Nagarain,9
+228,20,Bideha,9
+229,20,Mithila,11
+230,20,Sahidnagar,9
+231,20,Sabaila,13
+232,20,Kamala,9
+233,20,MithilaBihari,10
+234,20,Hansapur,9
+235,20,Janaknandani,6
+236,20,Bateshwar,5
+237,20,Mukhiyapatti Musharniya,6
+238,20,Lakshminya,7
+239,20,Aaurahi,6
+240,20,Dhanauji,5
+241,21,Bodebarsain,10
+242,21,Dakneshwori,10
+243,21,Hanumannagar Kankalini,14
+244,21,Kanchanrup,12
+245,21,Khadak,11
+246,21,Shambhunath,12
+247,21,Saptakoshi,11
+248,21,Surunga,11
+249,21,Rajbiraj,16
+250,21,Agnisaira Krishnasavaran,6
+251,21,Balan-Bihul,6
+252,21,Rajgadh,6
+253,21,Bishnupur,7
+254,21,Chhinnamasta,7
+255,21,Mahadeva,6
+256,21,Rupani,6
+257,21,Tilathi Koiladi,8
+258,21,Tirhut,5
+259,22,Aaurahi,9
+260,22,Balawa,11
+261,22,Bardibas,14
+262,22,Bhangaha,9
+263,22,Gaushala,12
+264,22,Jaleshor,12
+265,22,Loharpatti,9
+266,22,Manara Shiswa,10
+267,22,Matihani,9
+268,22,Ramgopalpur,9
+269,22,Ekdara,6
+270,22,Mahottari,6
+271,22,Pipara,7
+272,22,Samsi,7
+273,22,Sonama,8
+274,23,Bhaktapur,10
+275,23,Changunarayan,9
+276,23,Suryabinayak,10
+277,23,Madhyapur Thimi,9
+278,24,Bharatpur,29
+279,24,Kalika,11
+280,24,Khairhani,13
+281,24,Madi,9
+282,24,Ratnagar,16
+283,24,Rapti,13
+284,24,Ichchhakamana,7
+285,25,Dhunibeshi,9
+286,25,Nilkantha,14
+287,25,Khaniyabas,5
+288,25,Gajuri,8
+289,25,Galchhi,8
+290,25,Gangajamuna,7
+291,25,Jwalamukhi,7
+292,25,Thakre,11
+293,25,Netrawati Dabjong,5
+294,25,Benighat Rorang,10
+295,25,Rubi Valley,6
+296,25,Siddhalek,7
+297,25,Tripurasundari,7
+298,26,Bhimeswor,9
+299,26,Jiri,9
+300,26,Kalinchok,9
+301,26,Melung,7
+302,26,Bigu,8
+303,26,Gaurishankar,9
+304,26,Baiteshowr,8
+305,26,Sailung,8
+306,26,Tamakoshi,7
+307,27,Kathmandu,32
+308,27,Gokarneshwar,9
+309,27,Kirtipur,10
+310,27,Kageshwari-Manohara,9
+311,27,Chandragiri,15
+312,27,Tokha,11
+313,27,Tarakeshwar,11
+314,27,Dakshinkali,9
+315,27,Nagarjun,10
+316,27,Budhalikantha,13
+317,27,Shankharapur,9
+318,28,Dhulikhel,12
+319,28,Namobuddha,11
+320,28,Panauti,12
+321,28,Panchkhal,13
+322,28,Banepa,14
+323,28,Mandandeupur,12
+324,28,Khani Khola,7
+325,28,Chauri Deurali,9
+326,28,Temal,9
+327,28,Bethanchok,6
+328,28,Bhumlu,10
+329,28,Mahabharat,8
+330,28,Roshi,12
+331,29,Lalitpur,29
+332,29,Mahalaxmi,10
+333,29,Godawari,14
+334,29,Konjyosom,5
+335,29,Bagmati,7
+336,29,Mahankal,6
+337,30,Hetauda,19
+338,30,Thaha,12
+339,30,Bhimphedi,9
+340,30,Makawanpurgadhi,8
+341,30,Manahari,9
+342,30,Raksirang,9
+343,30,Bakaiya,12
+344,30,Bagmati,9
+345,30,Kailash,10
+346,30,Indrasarowar,5
+347,31,Bidur,13
+348,31,Belkotgadhi,13
+349,31,Kakani,8
+350,31,Panchakanya,5
+351,31,Likhu,6
+352,31,Dupcheshwar,7
+353,31,Shivapuri,8
+354,31,Tadi,6
+355,31,Suryagadhi,5
+356,31,Tarkeshwar,6
+357,31,Kispang,5
+358,31,Myagang,6
+359,32,Manthali,14
+360,32,Ramechhap,9
+361,32,Umakunda,7
+362,32,Khandadevi,9
+363,32,Doramba,7
+364,32,Gokulganga,6
+365,32,LikhuTamakoshi,7
+366,32,Sunapati,5
+367,33,Kalika,5
+368,33,Gosaikunda,6
+369,33,Naukunda,6
+370,33,Parbatikunda,5
+371,33,Uttargaya,5
+372,34,Kamalamai,14
+373,34,Dudhauli,14
+374,34,Sunkoshi,7
+375,34,Hariharpurgadhi,8
+376,34,Tinpatan,11
+377,34,Marin,7
+378,34,Golanjor,7
+379,34,Phikkal,6
+380,34,Ghyanglekh,5
+381,35,Chautara Sangachowkgadi,14
+382,35,Bahrabise,9
+383,35,Melamchi,13
+384,35,Balephi,8
+385,35,Sunkoshi,7
+386,35,Indrawati,12
+387,35,Jugal,7
+388,35,Panchpokhari,8
+389,35,Bhotekoshi,5
+390,35,Lisankhu,7
+391,35,Helambu,7
+392,35,Tripurasundari,6
+393,36,Baglung,14
+394,36,Dhorpatan,9
+395,36,Galkot,11
+396,36,Jaimuni,10
+397,36,Bareng,5
+398,36,Khathekhola,8
+399,36,Taman Khola,6
+400,36,Tara Khola,5
+401,36,Nishi Khola,7
+402,36,Badigad,10
+403,37,Gorkha,14
+404,37,Palungtar,10
+405,37,Sulikot,8
+406,37,Siranchowk,8
+407,37,Ajirkot,5
+408,37,Chumnubri,7
+409,37,Dharche,7
+410,37,Bhimsen Thapa,8
+411,37,Sahid Lakhan,9
+412,37,Aarughat,10
+413,37,Gandaki,8
+414,38,Pokhara,33
+415,38,Annapurna,11
+416,38,Machhapuchchhre,9
+417,38,Madi,12
+418,38,Rupa,7
+419,39,Besisahar,11
+420,39,Madhya Nepal,10
+421,39,Rainas,10
+422,39,Sundarbazar,11
+423,39,Dordi,9
+424,39,Dudhpokhari,6
+425,39,Kwhlosothar,9
+426,39,Marsyangdi,9
+427,40,Chame,5
+428,40,Nason,9
+429,40,NarpaBhumi,5
+430,40,Manang Ngisyang,9
+431,41,Gharpajhong,5
+432,41,Thasang,5
+433,41,Barhagaun Muktichhetra,5
+434,41,Lomanthang,5
+435,41,Lo-Ghekar Damodarkunda,5
+436,42,Beni,10
+437,42,Annapurna,8
+438,42,Dhaulagiri,7
+439,42,Mangala,5
+440,42,Malika,7
+441,42,Raghuganga,8
+442,43,Kawasoti,17
+443,43,Gaindakot,18
+444,43,Devachuli,17
+445,43,Madhya Bindu,15
+446,43,Baudikali,6
+447,43,Bulingtar,6
+448,43,Binayi Tribeni,7
+449,43,Hupsekot,6
+450,44,Kushma,14
+451,44,Phalewas,11
+452,44,Jaljala,9
+453,44,Paiyun,7
+454,44,Mahashila,6
+455,44,Modi,8
+456,44,Bihadi,6
+457,45,Galyang,11
+458,45,Chapakot,10
+459,45,Putalibazar,14
+460,45,Bheerkot,9
+461,45,Waling,14
+462,45,Arjun Chaupari,6
+463,45,Aandhikhola,6
+464,45,Kaligandaki,7
+465,45,Phedikhola,5
+466,45,Harinas,7
+467,45,Biruwa,8
+468,46,Bhanu,13
+469,46,Bhimad,9
+470,46,Byas,14
+471,46,Suklagandaki,12
+472,46,AnbuKhaireni,6
+473,46,Devghat,5
+474,46,Bandipur,6
+475,46,Rishing,8
+476,46,Ghiring,5
+477,46,Myagde,7
+478,47,Kapilvastu,12
+479,47,Banganga,11
+480,47,Buddhabhumi,10
+481,47,Shivaraj,11
+482,47,Krishnanagar,12
+483,47,Maharajgunj,11
+484,47,Mayadevi,8
+485,47,Yashodhara,8
+486,47,Suddhodan,6
+487,47,Bijaynagar,7
+488,48,Bardaghat,16
+489,48,Ramgram,18
+490,48,Sunwal,13
+491,48,Susta,5
+492,48,Palhi Nandan,6
+493,48,Pratappur,9
+494,48,Sarawal,7
+495,49,Butwal,19
+496,49,Devdaha,12
+497,49,Lumbini Sanskritik,13
+498,49,Sainamaina,11
+499,49,Siddharthanagar,13
+500,49,Tilottama,17
+501,49,Gaidahawa,9
+502,49,Kanchan,5
+503,49,Kotahimai,7
+504,49,Marchawari,7
+505,49,Mayadevi,8
+506,49,Omsatiya,6
+507,49,Rohini,7
+508,49,Sammarimai,7
+509,49,Siyari,7
+510,49,Suddodhan,7
+511,50,Sandhikharka,12
+512,50,Sitganga,14
+513,50,Bhumikasthan,10
+514,50,Chhatradev,8
+515,50,Panini,8
+516,50,Malarani,9
+517,51,Resunga,14
+518,51,Musikot,9
+519,51,Rurukshetra,6
+520,51,Chhatrakot,6
+521,51,Gulmidarbar,7
+522,51,Chandrakot,8
+523,51,Satyawati,8
+524,51,Dhurkot,7
+525,51,Kaligandaki,7
+526,51,Isma,6
+527,51,Malika,8
+528,51,Madane,7
+529,52,Tansen,14
+530,52,Rampur,10
+531,52,Rainadevi Chhahara,8
+532,52,Ripdikot,8
+533,52,Bagnaskali,9
+534,52,Rambha,5
+535,52,Purbakhola,6
+536,52,Nisdi,7
+537,52,Mathagadhi,8
+538,52,Tinahu,6
+539,53,Ghorahi,19
+540,53,Tulsipur,19
+541,53,Lamahi,9
+542,53,Gadhawa,8
+543,53,Rajpur,7
+544,53,Shantinagar,7
+545,53,Rapti,9
+546,53,Banglachuli,8
+547,53,Dangisharan,7
+548,53,Babai,7
+549,54,Sworgadwari,9
+550,54,Pyuthan,10
+551,54,Mandavi,5
+552,54,Sarumarani,6
+553,54,Ayirawati,6
+554,54,Mallarani,5
+555,54,Jhimruk,8
+556,54,Naubahini,8
+557,54,Gaumukhi,7
+558,55,Rolpa,10
+559,55,Runtigadi,9
+560,55,Triveni,7
+561,55,Sunil Smiriti,8
+562,55,Lungri,7
+563,55,Sunchhahari,7
+564,55,Thawang,5
+565,55,Madi,6
+566,55,GangaDev,7
+567,55,Pariwartan,6
+568,56,Putha Uttarganga,14
+569,56,Bhume,9
+570,56,Sisne,8
+571,57,Nepalgunj,23
+572,57,Kohalpur,15
+573,57,Rapti-Sonari,9
+574,57,Narainapur,6
+575,57,Duduwa,6
+576,57,Janaki,6
+577,57,Khajura,8
+578,57,Baijanath,8
+579,58,Gulariya,12
+580,58,Rajapur,10
+581,58,Madhuwan,9
+582,58,Thakurbaba,9
+583,58,Basgadhi,9
+584,58,Barbardiya,11
+585,58,Badhaiyatal,9
+586,58,Geruwa,6
+587,59,Aathabiskot,14
+588,59,Musikot,14
+589,59,Chaurjahari,14
+590,59,SaniBheri,11
+591,59,Triveni,10
+592,59,Banphikot,10
+593,60,Kumakh,7
+594,60,Kalimati,7
+595,60,Chhatreshwari,7
+596,60,Darma,6
+597,60,Kapurkot,6
+598,60,Triveni,6
+599,60,Siddha Kumakh,5
+600,60,Bagchaur,12
+601,60,Shaarda,15
+602,60,Bangad Kupinde,12
+603,61,Mudkechula,9
+604,61,Kaike,7
+605,61,She Phoksundo,9
+606,61,Jagadulla,6
+607,61,Dolpo Buddha,6
+608,61,Chharka Tongsong,6
+609,61,Thuli Bheri,11
+610,61,Tripurasundari,11
+611,62,Simkot,8
+612,62,Sarkegad,8
+613,62,Adanchuli,6
+614,62,Kharpunath,5
+615,62,Tanjakot,5
+616,62,Chankheli,6
+617,62,Namkha,6
+618,63,Tatopani,8
+619,63,Patarasi,7
+620,63,Tila,9
+621,63,Kanaka Sundari,8
+622,63,Sinja,6
+623,63,Hima,7
+624,63,Guthichaur,5
+625,63,Chandannath,10
+626,64,Khandachakra,11
+627,64,Raskot,9
+628,64,Tilagufa,11
+629,64,Narharinath,9
+630,64,Palata,9
+631,64,Shubha Kalika,8
+632,64,Sanni Triveni,9
+633,64,Pachaljharana,9
+634,64,Mahawai,7
+635,65,Khatyad,11
+636,65,Soru,11
+637,65,Mugum Karmarong,9
+638,65,Chhayanath Rara,14
+639,66,Simta,9
+640,66,Barahatal,10
+641,66,Chaukune,10
+642,66,Chingad,6
+643,66,Gurbhakot,14
+644,66,Birendranagar,16
+645,66,Bheriganga,13
+646,66,Panchapuri,11
+647,66,Lekbeshi,10
+648,67,Dullu,13
+649,67,Gurans,8
+650,67,Bhairabi,7
+651,67,Naumule,8
+652,67,Mahabu,6
+653,67,Thantikandh,6
+654,67,Bhagawatimai,7
+655,67,Dungeshwar,6
+656,67,Aathabis,9
+657,67,Narayan,11
+658,67,Chamunda Bindrasaini,9
+659,68,Chhedagad,13
+660,68,Bheri,13
+661,68,Nalgad,13
+662,68,Junichande,11
+663,68,Kuse,9
+664,68,Barekot,9
+665,68,Shivalaya,9
+666,69,Mahakali,9
+667,69,Shailyashikhar,9
+668,69,Naugad,6
+669,69,Malikarjun,8
+670,69,Marma,6
+671,69,Lekam,6
+672,69,Duhun,5
+673,69,Vyans,6
+674,69,Apihimal,6
+675,70,Jayaprithvi,11
+676,70,Bungal,11
+677,70,Kedarsyu,9
+678,70,Thalara,9
+679,70,Bitthadchir,9
+680,70,Chhabis Pathibhera,7
+681,70,Khaptadchhanna,7
+682,70,Masta,7
+683,70,Durgathali,7
+684,70,Talkot,7
+685,70,Surma,5
+686,70,Saipal,5
+687,71,Badimalika,9
+688,71,Triveni,9
+689,71,Budhiganga,10
+690,71,Budhinanda,10
+691,71,Khaptad Chhededaha,7
+692,71,Swami Kartik Khapar,5
+693,71,Jagannath,6
+694,71,Himali,7
+695,71,Gaumul,6
+696,72,Dashrathchanda,11
+697,72,Patan,10
+698,72,Melauli,9
+699,72,Purchaudi,10
+700,72,Dogdakedar,8
+701,72,Dilashaini,7
+702,72,Sigas,9
+703,72,Pancheshwar,6
+704,72,Surnaya,8
+705,72,Shivanath,6
+706,73,Dipayal Silgadhi,9
+707,73,Shikhar,11
+708,73,Aadarsha,7
+709,73,Purbichauki,7
+710,73,K.I.Singh,7
+711,73,Jorayal,6
+712,73,Sayal,6
+713,73,Bogatan-Phudsil,7
+714,73,Badikedar,5
+715,74,Ramaroshan,7
+716,74,Chaurpati,7
+717,74,Turmakhand,8
+718,74,Mellekh,8
+719,74,Dhakari,8
+720,74,Bannigadi Jayagad,6
+721,74,Mangalsen,14
+722,74,Kamalbazar,10
+723,74,Sanfebagar,14
+724,74,Panchadewal Binayak,9
+725,75,Navadurga,5
+726,75,Aalitaal,8
+727,75,Ganyapadhura,5
+728,75,Bhageshwar,5
+729,75,Ajaymeru,6
+730,75,Amargadhi,11
+731,75,Parshuram,12
+732,76,Bhimdatta,19
+733,76,Punarbas,11
+734,76,Bedkot,10
+735,76,Mahakali,10
+736,76,Shuklaphanta,12
+737,76,Belauri,10
+738,76,Krishnapur,9
+739,76,Laljhadi,6
+740,76,Beldandi,5
+741,77,Janaki,9
+742,77,Kailari,9
+743,77,Joshipur,7
+744,77,Bardagoriya,6
+745,77,Mohanyal,7
+746,77,Chure,6
+747,77,Tikapur,9
+748,77,Ghodaghodi,12
+749,77,Lamkichuha,10
+750,77,Bhajni,9
+751,77,Godawari,12
+752,77,Gauriganga,11
+753,77,Dhangadhi,19
