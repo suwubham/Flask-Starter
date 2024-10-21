@@ -1,2 +1,1 @@
-# ovl-backend
-Online Vocational Learning Platform - Backend
+# Starter for Flask
